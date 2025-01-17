@@ -18,7 +18,13 @@ const Footer = () => {
               defaultMessage="Page created by WindarLobo"
             />
           </p>
-          <p>&copy; {fecha}. All Rights Reserved.</p>
+          <p>
+            &copy; {fecha}{" "}
+            <FormattedMessage
+              id="footer-reserva"
+              defaultMessage=".All Rights Reserved."
+            />
+          </p>
         </div>
         <div className="redes-sociales">
           <a

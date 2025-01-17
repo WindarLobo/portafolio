@@ -9,9 +9,11 @@ import { NavLink } from "react-router-dom";
 /* DarkMode */
 import DarkMode from "../DarkMode/DarkMode";
 
-/* Language */
+/* Language and img  */
 import { FormattedMessage } from "react-intl";
 import { langContext } from "../../context/Context";
+import en from "../../assets/img/en.png";
+import es from "../../assets/img/es.png";
 
 const Header = () => {
   // Buttom language
@@ -57,12 +59,12 @@ const Header = () => {
         <div id="buttons">
           <img
             onClick={() => idioma.selectLanguage("en-US")}
-            src="https://nahuel61920.github.io/Portafoliovirtual/img/en.png"
+            src={en}
             alt="EEUU"
           />
           <img
             onClick={() => idioma.selectLanguage("es-ES")}
-            src="https://nahuel61920.github.io/Portafoliovirtual/img/es.png"
+            src={es}
             alt="España"
           />
         </div>

@@ -117,6 +117,19 @@ const Content = () => (
             </div>
             <span>Whatsapp</span>
           </a>
+          <a
+            className="button"
+            href="mailto:lobo.winsus@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            data-aos="fade-up"
+            data-aos-delay="1800"
+          >
+            <div className="icon">
+              <i className="fab fas fa-envelope"></i>
+            </div>
+            <span>Gmail</span>
+          </a>
         </div>
 
         <Link to="sobre-mi" href="#sobre-mi">

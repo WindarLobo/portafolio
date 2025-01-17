@@ -11,6 +11,10 @@ import DarkMode from "../DarkMode/DarkMode";
 import { FormattedMessage } from "react-intl";
 import { langContext } from "../../context/Context";
 
+/*Img lenguaje*/
+import en from "../../assets/img/en.png";
+import es from "../../assets/img/es.png";
+
 const HeaderPage = () => {
   // Buttom language
   const idioma = useContext(langContext);
@@ -49,21 +53,15 @@ const HeaderPage = () => {
         <NavLink to="/about" offset={-150} duration={500}>
           <FormattedMessage id="about" defaultMessage="About me" />
         </NavLink>
-        <NavLink to="/service" offset={-150} duration={500}>
-          <FormattedMessage id="services" defaultMessage="Services" />
-        </NavLink>
-        <NavLink to="/project" offset={-150} duration={500}>
-          <FormattedMessage id="projects" defaultMessage="Projects" />
-        </NavLink>
         <div id="buttons">
           <img
             onClick={() => idioma.selectLanguage("en-US")}
-            src="https://nahuel61920.github.io/Portafoliovirtual/img/en.png"
+            src={en}
             alt="EEUU"
           />
           <img
             onClick={() => idioma.selectLanguage("es-ES")}
-            src="https://nahuel61920.github.io/Portafoliovirtual/img/es.png"
+            src={es}
             alt="España"
           />
         </div>

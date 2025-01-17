@@ -49,7 +49,7 @@ const About = () => (
         <p>
           <FormattedMessage
             id="my-description"
-            defaultMessage="I have been working on web designing and web development for 4 years. Constantly updating the technologies I already master, but also looking to learn new technologies to enrich my skills and improve my good practices as a developer."
+            defaultMessage="I dedicated myself to web development, I am constantly learning about the technologies that I already master, I also seek to learn new technologies to enrich my skills and improve my good practices as a developer."
           />
         </p>
         <ul>
@@ -98,7 +98,6 @@ const About = () => (
         data-aos-delay="650"
       >
         <h3>
-          {" "}
           <FormattedMessage id="projects-habilides" defaultMessage="Skills" />
         </h3>
         <h4>Front-End</h4>
