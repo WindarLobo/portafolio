@@ -83,7 +83,7 @@ const About = () => (
             download="windar_sujey_lobo_garces_cv.pdf"
             className="btn-codigo buttonDownload"
           >
-            <FormattedMessage id="btn-cv" defaultMessage="Download CV" />
+            <FormattedMessage id="btn-cv" defaultMessage=" Download CV" />
           </a>
           {/* 
           <div className="mas-info-btn">
