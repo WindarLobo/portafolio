@@ -168,7 +168,7 @@ const About = () => (
           </div>
           <div>
             <img alt="Sql Server" className="icons-skils" src={sql} />
-            <h5>PosSql ServertgreSQL</h5>
+            <h5>Sql Server</h5>
           </div>
         </div>
         <h4>
