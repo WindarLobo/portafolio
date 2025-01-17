@@ -47,29 +47,22 @@ const About = () => (
               id="description"
               defaultMessage="Windar Lobo Garces"
             />
-            <br></br>
-            <FormattedMessage
-              id="estudio"
-              defaultMessage="Full stack developer."
-            />
           </h4>
+        </div>
+        <div className="slogan">
+          <FormattedMessage
+            id="slogan"
+            defaultMessage="Full Stack, because sleep is overrated."
+          />
         </div>
         <p>
           <FormattedMessage
             id="my-description"
-            defaultMessage="I dedicated myself to web development, I am constantly learning about the technologies that I already master, I also seek to learn new technologies to enrich my skills and improve my good practices as a developer."
+            defaultMessage="I'm a Full Stack Developer, also known as the all-round coder. 
+            If you need the backend to bring some magic or the frontend to shine like a luxury showcase, I'm your girl. I transform ideas into beautiful, functional applications... 
+            well, until users find a way to break them. But don't worry, I'm also an expert at fixing what others 'accidentally' break."
           />
         </p>
-        <ul>
-          <li>
-            <p>
-              <span>
-                <FormattedMessage id="from" defaultMessage="From:" />
-              </span>
-              España, Galicia
-            </p>
-          </li>
-        </ul>
         <div className="mas-info">
           <a
             href={cv}

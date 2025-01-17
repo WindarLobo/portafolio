@@ -6,8 +6,6 @@
   "contact": "Contact",
 
   "site-web": "websites",
-  "games": "games",
-
   "greeting": "Hello",
   "name": "I am  Windar Lobo Garces ",
   "rol": "Full-stack developer",
@@ -15,9 +13,10 @@
   "im": "who I am",
   "description": "Windar Lobo Garces",
   "estudio": "Full stack developer",
-  "my-description": "I dedicated myself to web development, I am constantly learning about the technologies that I already master, I also seek to learn new technologies to enrich my skills and improve my good practices as a developer..",
-  "years": "Age: ",
-  "from": "From: ",
+  "my-description": "I'm a Full Stack Developer, also known as the all-round coder. If you need the backend to bring some magic or the frontend to shine like a luxury showcase, I'm your girl. I transform ideas into beautiful, functional applications... well, until users find a way to break them. But don't worry, I'm also an expert at fixing what others 'accidentally' break.",
+
+  "slogan": "“Full Stack, because sleep is overrated.”",
+  "slogan-conten": "“I bring ideas to life, from backend to frontend”",
   "btn-know-more": "Read more",
   "tools": "Tools",
 
