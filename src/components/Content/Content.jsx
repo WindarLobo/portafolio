@@ -63,6 +63,15 @@ const Content = () => (
           >
             <i className="fab fa-whatsapp"></i>
           </a>
+          <a
+            href="mailto:lobo.winsus@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            data-aos="fade-up"
+            data-aos-delay="1900"
+          >
+            <i className="fab fas fa-envelope"></i>
+          </a>
         </div>
         <div className="wrapper">
           <a
@@ -123,7 +132,7 @@ const Content = () => (
             target="_blank"
             rel="noopener noreferrer"
             data-aos="fade-up"
-            data-aos-delay="1800"
+            data-aos-delay="1900"
           >
             <div className="icon">
               <i className="fab fas fa-envelope"></i>

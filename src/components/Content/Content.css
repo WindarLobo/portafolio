@@ -78,6 +78,9 @@
 .wrapper .button:nth-child(4):hover .icon {
   background: #4fc35b;
 }
+.wrapper .button:nth-child(5):hover .icon {
+  background: #5a5cca;
+}
 .wrapper .button .icon i {
   font-size: 25px;
   line-height: 60px;
@@ -106,7 +109,9 @@
 .wrapper .button:nth-child(4):hover {
   background-color: #4fc35b;
 }
-
+.wrapper .button:nth-child(5):hover {
+  background: #5a5cca;
+}
 .titulo .redes-sociales {
   display: none;
 }
