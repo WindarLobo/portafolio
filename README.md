@@ -29,7 +29,7 @@ El proyecto tiene una pequeña comfiguración para hacer el despliegue del proye
 
 ## Despliegue 📦
 
-Podrás visitar mi portafolio en el siguiente enlace: https://WindarLobo.github.io/portfolio
+Podrás visitar mi portafolio en el siguiente enlace: "https://WindarLobo.github.io/portafolio/"
 
 ## Construido con 🛠️
 

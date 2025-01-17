@@ -60,7 +60,7 @@ const About = () => {
               <p>
                 <FormattedMessage
                   id="about-info-1"
-                  defaultMessage="Hello, I am Windar Sujey Lobo Garces, a student at Colegio de Fomento Montecastelo in Galicia, Spain. I consider myself a person passionate about programming and web development."
+                  defaultMessage="Hello, I am , a student at Colegio de Fomento Montecastelo in Galicia, Spain. I consider myself a person passionate about programming and web development."
                 />
               </p>
 
