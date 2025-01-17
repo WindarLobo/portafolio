@@ -147,7 +147,6 @@ section .row .columns .mas-info {
   flex-direction: column;
   margin: 0 0 2rem 0;
 }
-
 .mas-info-btn {
   display: flex;
 }
@@ -412,6 +411,15 @@ section .row .columns .skill img:hover {
 
   .skill-name {
     margin-top: 1rem;
+  }
+  .download {
+    margin-left: 1rem;
+  }
+
+  .spacing {
+    width: 100%;
+    max-width: 180px;
+    padding: 15px 50px;
   }
 }
 

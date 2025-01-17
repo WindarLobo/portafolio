@@ -63,11 +63,6 @@ const About = () => (
         <ul>
           <li>
             <p>
-              <span>Email:</span> lobo.winsus@gmail.com
-            </p>
-          </li>
-          <li>
-            <p>
               <span>
                 <FormattedMessage id="from" defaultMessage="From:" />
               </span>
@@ -81,9 +76,9 @@ const About = () => (
             target="_blank"
             rel="noopener noreferrer"
             download="windar_sujey_lobo_garces_cv.pdf"
-            className="btn-codigo buttonDownload"
+            className="btn-codigo buttonDownload spacing"
           >
-            <FormattedMessage id="btn-cv" defaultMessage=" Download CV" />
+            <FormattedMessage id="btn-cv" defaultMessage="Download CV" />
           </a>
           {/* 
           <div className="mas-info-btn">
@@ -164,7 +159,7 @@ const About = () => (
           </div>
           <div>
             <img alt="aspNet" className="icons-skils" src={aspNet} />
-            <h5>ASP.NET Core</h5>
+            <h5>ASP .NET</h5>
           </div>
           <div>
             <img alt="Sql Server" className="icons-skils" src={sql} />
