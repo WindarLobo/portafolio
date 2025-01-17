@@ -164,7 +164,7 @@ const About = () => (
           </div>
           <div>
             <img alt="aspNet" className="icons-skils" src={aspNet} />
-            <h5>aspNet</h5>
+            <h5>ASP.NET Core</h5>
           </div>
           <div>
             <img alt="Sql Server" className="icons-skils" src={sql} />
