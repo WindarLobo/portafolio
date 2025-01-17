@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.a63ef855.css",
-    "main.js": "/portafolio/static/js/main.816d2179.js",
+    "main.js": "/portafolio/static/js/main.a0c6ad94.js",
     "static/js/453.be345d73.chunk.js": "/portafolio/static/js/453.be345d73.chunk.js",
     "static/media/windar_sujey_lobo_garces_cv.pdf": "/portafolio/static/media/windar_sujey_lobo_garces_cv.b091a51f89b6d54e2a18.pdf",
     "static/media/photo-perfil.jpg": "/portafolio/static/media/photo-perfil.e2f5dc3a09a5df5d9f96.jpg",
@@ -21,11 +21,11 @@
     "index.html": "/portafolio/index.html",
     "static/media/javascript-logo-svg-vector.svg": "/portafolio/static/media/javascript-logo-svg-vector.31ff4b10b65a063f3487ec5d3822c07f.svg",
     "main.a63ef855.css.map": "/portafolio/static/css/main.a63ef855.css.map",
-    "main.816d2179.js.map": "/portafolio/static/js/main.816d2179.js.map",
+    "main.a0c6ad94.js.map": "/portafolio/static/js/main.a0c6ad94.js.map",
     "453.be345d73.chunk.js.map": "/portafolio/static/js/453.be345d73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a63ef855.css",
-    "static/js/main.816d2179.js"
+    "static/js/main.a0c6ad94.js"
   ]
 }
