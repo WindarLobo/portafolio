@@ -18,6 +18,7 @@ const Footer = () => {
               defaultMessage="Page created by WindarLobo"
             />
           </p>
+          <br></br>
           <p>
             &copy; {fecha}{" "}
             <FormattedMessage
@@ -25,29 +26,6 @@ const Footer = () => {
               defaultMessage=".All Rights Reserved."
             />
           </p>
-        </div>
-        <div className="redes-sociales">
-          <a
-            href="https://www.linkedin.com/in/windar-lobo-garces/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i className="fab fa-linkedin"></i>
-          </a>
-          <a
-            href="https://github.com/WindarLobo/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i className="fab fa-github"></i>
-          </a>
-          <a
-            href="https://api.whatsapp.com/send?phone=34697252307"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <i className="fab fa-whatsapp"></i>
-          </a>
         </div>
       </div>
     </footer>
