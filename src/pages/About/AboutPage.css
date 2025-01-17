@@ -162,6 +162,25 @@ section .row .col-skill h4 {
   margin-bottom: 2.5rem;
 }
 
+.about-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1em 0;
+}
+
+.about-photo {
+  max-width: 30%;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.about-text {
+  line-height: 1.5;
+  flex: 1;
+}
+
 .skill {
   display: flex;
   flex-wrap: wrap;

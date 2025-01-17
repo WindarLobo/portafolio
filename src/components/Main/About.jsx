@@ -1,8 +1,8 @@
 import React from "react";
 import "../../pages/About/AboutPage.css";
-import { Link } from "react-router-dom";
 import cv from "../../cv/windar_sujey_lobo_garces_cv.pdf";
-import { ButtomGet } from "../ButtomGet/ButtomGet";
+/* Img */
+import imgabout from "../../assets/img/photo-perfil.jpg";
 /*Front-End*/
 import htmlStiker from "../../assets/img/html.png";
 import cssStiker from "../../assets/img/css-logo.png";
@@ -40,12 +40,20 @@ const About = () => (
         <h3>
           <FormattedMessage id="im" defaultMessage="who I am" />
         </h3>
-        <h4>
-          <FormattedMessage
-            id="description"
-            defaultMessage="My name is Windar Lobo Garces and I am a full stack developer."
-          />
-        </h4>
+        <div className="about-container">
+          <img src={imgabout} alt="About Me" className="about-photo" />
+          <h4 className="about-text">
+            <FormattedMessage
+              id="description"
+              defaultMessage="Windar Lobo Garces"
+            />
+            <br></br>
+            <FormattedMessage
+              id="estudio"
+              defaultMessage="Full stack developer."
+            />
+          </h4>
+        </div>
         <p>
           <FormattedMessage
             id="my-description"
@@ -53,14 +61,6 @@ const About = () => (
           />
         </p>
         <ul>
-          <li>
-            <p>
-              <span>
-                <FormattedMessage id="years" defaultMessage="Age:" />
-              </span>
-              31
-            </p>
-          </li>
           <li>
             <p>
               <span>Email:</span> lobo.winsus@gmail.com
@@ -85,11 +85,12 @@ const About = () => (
           >
             <FormattedMessage id="btn-cv" defaultMessage="Download CV" />
           </a>
+          {/* 
           <div className="mas-info-btn">
             <Link to="/about">
               <ButtomGet />
             </Link>
-          </div>
+          </div>*/}
         </div>
       </div>
       <div
