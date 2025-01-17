@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.a0445562.css",
+    "main.js": "/portafolio/static/js/main.a1efc306.js",
+    "static/js/453.be345d73.chunk.js": "/portafolio/static/js/453.be345d73.chunk.js",
+    "static/media/windar_sujey_lobo_garces_cv.pdf": "/portafolio/static/media/windar_sujey_lobo_garces_cv.b091a51f89b6d54e2a18.pdf",
+    "static/media/photo-perfil.jpg": "/portafolio/static/media/photo-perfil.e2f5dc3a09a5df5d9f96.jpg",
+    "static/media/postgresql.png": "/portafolio/static/media/postgresql.4d0203e08c4a01d04059.png",
+    "static/media/java.webp": "/portafolio/static/media/java.caa1985eefe9a27b0439.webp",
+    "static/media/mongo.png": "/portafolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/git-logo2.png": "/portafolio/static/media/git-logo2.430db7567e2f1e81208a.png",
+    "static/media/react-logo22.png": "/portafolio/static/media/react-logo22.077af94ad2c3e0120347.png",
+    "static/media/docker.png": "/portafolio/static/media/docker.8a1129935134843e08e4.png",
+    "static/media/VisualEstudio_Code.png": "/portafolio/static/media/VisualEstudio_Code.939389db6d79f009ee5f.png",
+    "static/media/css-logo.png": "/portafolio/static/media/css-logo.efd17a831ff3e26324b2.png",
+    "static/media/c.png": "/portafolio/static/media/c.d13e97288e087ffb9942.png",
+    "static/media/visual-studio.png": "/portafolio/static/media/visual-studio.15c1d839cfb78bc68ee5.png",
+    "static/media/sql.webp": "/portafolio/static/media/sql.cb21b8788188e771e768.webp",
+    "static/media/postman-icon.webp": "/portafolio/static/media/postman-icon.7066eb08ea17b7fe2069.webp",
+    "static/media/bootstrap-5-1.svg": "/portafolio/static/media/bootstrap-5-1.98585727bcfe0b1555649ec9bbab236c.svg",
+    "index.html": "/portafolio/index.html",
+    "static/media/javascript-logo-svg-vector.svg": "/portafolio/static/media/javascript-logo-svg-vector.31ff4b10b65a063f3487ec5d3822c07f.svg",
+    "main.a0445562.css.map": "/portafolio/static/css/main.a0445562.css.map",
+    "main.a1efc306.js.map": "/portafolio/static/js/main.a1efc306.js.map",
+    "453.be345d73.chunk.js.map": "/portafolio/static/js/453.be345d73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0445562.css",
+    "static/js/main.a1efc306.js"
+  ]
+}
