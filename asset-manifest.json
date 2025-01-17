@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.3eece6e5.css",
-    "main.js": "/portafolio/static/js/main.2f19f485.js",
+    "main.css": "/portafolio/static/css/main.19d58aed.css",
+    "main.js": "/portafolio/static/js/main.9ab013fc.js",
     "static/js/453.be345d73.chunk.js": "/portafolio/static/js/453.be345d73.chunk.js",
     "static/media/windar_sujey_lobo_garces_cv.pdf": "/portafolio/static/media/windar_sujey_lobo_garces_cv.b091a51f89b6d54e2a18.pdf",
     "static/media/photo-perfil.jpg": "/portafolio/static/media/photo-perfil.e2f5dc3a09a5df5d9f96.jpg",
@@ -20,12 +20,12 @@
     "static/media/bootstrap-5-1.svg": "/portafolio/static/media/bootstrap-5-1.98585727bcfe0b1555649ec9bbab236c.svg",
     "index.html": "/portafolio/index.html",
     "static/media/javascript-logo-svg-vector.svg": "/portafolio/static/media/javascript-logo-svg-vector.31ff4b10b65a063f3487ec5d3822c07f.svg",
-    "main.3eece6e5.css.map": "/portafolio/static/css/main.3eece6e5.css.map",
-    "main.2f19f485.js.map": "/portafolio/static/js/main.2f19f485.js.map",
+    "main.19d58aed.css.map": "/portafolio/static/css/main.19d58aed.css.map",
+    "main.9ab013fc.js.map": "/portafolio/static/js/main.9ab013fc.js.map",
     "453.be345d73.chunk.js.map": "/portafolio/static/js/453.be345d73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3eece6e5.css",
-    "static/js/main.2f19f485.js"
+    "static/css/main.19d58aed.css",
+    "static/js/main.9ab013fc.js"
   ]
 }
