@@ -147,9 +147,10 @@ const Content = () => (
             </a>
           </div>
         </div>
+        {/* 
         <Link to="sobre-mi" href="#sobre-mi">
           <div className="scroll-down"></div>
-        </Link>
+        </Link>*/}
       </div>
     </section>
   </div>
